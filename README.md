@@ -18,6 +18,6 @@ The Stock Analyst Model is a comprehensive tool designed to provide powerful ins
 
 ## Demo Video
 
-For a better understanding of how the Stock Analyst Model works, watch the demo video below:
+For a better understanding of how the Stock Analyst Model works, watch the demo video here:
 
-![Stock Analyst Model Demo](stock_analysis.mp4)
+[Watch the Stock Analyst Demo Video](./stock_analyst.mp4)
