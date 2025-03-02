@@ -16,3 +16,11 @@ The Stock Analyst Model is a comprehensive tool designed to provide powerful ins
 4. **Future Trend Predictions Using LSTM**
    - Predicts future stock trends using 3 years of historical data and Long Short-Term Memory (LSTM) networks.
 
+## Screenshots
+Here are some screenshots showcasing the Stock Analyst Model in action:
+
+![Screenshot 1](Screenshot%202025-03-02%20124910.png)  
+![Screenshot 2](Screenshot%202025-03-02%20124928.png)  
+![Screenshot 3](Screenshot%202025-03-02%20124942.png)  
+![Screenshot 4](Screenshot%202025-03-02%20131909.png)  
+![Screenshot 5](Screenshot%202025-03-02%20131931.png)  
